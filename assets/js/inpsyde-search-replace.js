@@ -2,7 +2,6 @@
  * javascript for inpsyde search and replace plugin
  */
 "use strict";
-
 ;(function ( $ ) {
 
 	window.addEventListener( 'load', function () {
