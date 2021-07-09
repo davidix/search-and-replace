@@ -4,6 +4,8 @@ namespace Inpsyde\SearchReplace\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Brain\Monkey;
+
+
 /**
  * This abstract class will contain some helper methods to easily create mocks.
  */
